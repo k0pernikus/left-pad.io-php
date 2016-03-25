@@ -1,0 +1,27 @@
+{
+  "name": "k0pernikus/leftpad",
+  "type": "library",
+  "keywords": [
+    "leftpad"
+  ],
+  "description": "PHP wrapper library to consumes the http://left-pad.io/",
+  "version": "1.0.2",
+  "prefer-stable": true,
+  "autoload": {
+    "psr-4": {
+      "Kopernikus\\": [
+        "src/"
+      ]
+    }
+  },
+  "require": {
+    "php": ">=5.4"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Philipp Kretzschmar",
+      "email": "philipp.kretzschmar@gmail.com"
+    }
+  ]
+}
