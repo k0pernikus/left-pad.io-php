@@ -1,8 +1,9 @@
 {
-  "name": "k0pernikus/leftpad",
+  "name": "k0pernikus/left-pad.io-php",
   "type": "library",
   "keywords": [
-    "leftpad"
+    "leftpad",
+    "left-pad.io"
   ],
   "description": "PHP wrapper library to consumes the http://left-pad.io/",
   "version": "1.0.2",
